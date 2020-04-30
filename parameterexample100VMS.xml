@@ -3,7 +3,7 @@
 <suite name="Parameter test Suite" parallel="tests" thread-count="100" verbose="1">
 <test name="Login Test 1  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -15,7 +15,7 @@
 </test>
 <test name="Login Test 2  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -27,7 +27,7 @@
 </test>
 <test name="Login Test 3  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -39,7 +39,7 @@
 </test>
 <test name="Login Test 4  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -51,7 +51,7 @@
 </test>
 <test name="Login Test 5  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -63,7 +63,7 @@
 </test>
 <test name="Login Test 6  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -75,7 +75,7 @@
 </test>
 <test name="Login Test 7  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -87,7 +87,7 @@
 </test>
 <test name="Login Test 8  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -99,7 +99,7 @@
 </test>
 <test name="Login Test 9  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -111,7 +111,7 @@
 </test>
 <test name="Login Test 10  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -123,7 +123,7 @@
 </test>
 <test name="Login Test 11  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -135,7 +135,7 @@
 </test>
 <test name="Login Test 12  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -147,7 +147,7 @@
 </test>
 <test name="Login Test 13  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -159,7 +159,7 @@
 </test>
 <test name="Login Test 14  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -171,7 +171,7 @@
 </test>
 <test name="Login Test 15  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -183,7 +183,7 @@
 </test>
 <test name="Login Test 16  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -195,7 +195,7 @@
 </test>
 <test name="Login Test 17  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -207,7 +207,7 @@
 </test>
 <test name="Login Test 18  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -219,7 +219,7 @@
 </test>
 <test name="Login Test 19  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -231,7 +231,7 @@
 </test>
 <test name="Login Test 20  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -243,7 +243,7 @@
 </test>
 <test name="Login Test 21  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -255,7 +255,7 @@
 </test>
 <test name="Login Test 22  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -267,7 +267,7 @@
 </test>
 <test name="Login Test 23  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -279,7 +279,7 @@
 </test>
 <test name="Login Test 24  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -291,7 +291,7 @@
 </test>
 <test name="Login Test 25  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -303,7 +303,7 @@
 </test>
 <test name="Login Test 26  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -315,7 +315,7 @@
 </test>
 <test name="Login Test 27  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -327,7 +327,7 @@
 </test>
 <test name="Login Test 28  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -339,7 +339,7 @@
 </test>
 <test name="Login Test 29  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -351,7 +351,7 @@
 </test>
 <test name="Login Test 30  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -363,7 +363,7 @@
 </test>
 <test name="Login Test 31  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -375,7 +375,7 @@
 </test>
 <test name="Login Test 32  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -387,7 +387,7 @@
 </test>
 <test name="Login Test 33  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -399,7 +399,7 @@
 </test>
 <test name="Login Test 34  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -411,7 +411,7 @@
 </test>
 <test name="Login Test 35  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -423,7 +423,7 @@
 </test>
 <test name="Login Test 36  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -435,7 +435,7 @@
 </test>
 <test name="Login Test 37  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -447,7 +447,7 @@
 </test>
 <test name="Login Test 38  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -459,7 +459,7 @@
 </test>
 <test name="Login Test 39  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -471,7 +471,7 @@
 </test>
 <test name="Login Test 40  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -483,7 +483,7 @@
 </test>
 <test name="Login Test 41  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -495,7 +495,7 @@
 </test>
 <test name="Login Test 42  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -507,7 +507,7 @@
 </test>
 <test name="Login Test 43  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -519,7 +519,7 @@
 </test>
 <test name="Login Test 44  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -531,7 +531,7 @@
 </test>
 <test name="Login Test 45  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -543,7 +543,7 @@
 </test>
 <test name="Login Test 46  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -555,7 +555,7 @@
 </test>
 <test name="Login Test 47  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -567,7 +567,7 @@
 </test>
 <test name="Login Test 48  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -579,7 +579,7 @@
 </test>
 <test name="Login Test 49  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -591,7 +591,7 @@
 </test>
 <test name="Login Test 50  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -603,7 +603,7 @@
 </test>
 <test name="Login Test 51  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -615,7 +615,7 @@
 </test>
 <test name="Login Test 52  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -627,7 +627,7 @@
 </test>
 <test name="Login Test 53  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -639,7 +639,7 @@
 </test>
 <test name="Login Test 54  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -651,7 +651,7 @@
 </test>
 <test name="Login Test 55  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -663,7 +663,7 @@
 </test>
 <test name="Login Test 56  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -675,7 +675,7 @@
 </test>
 <test name="Login Test 57  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -687,7 +687,7 @@
 </test>
 <test name="Login Test 58  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -699,7 +699,7 @@
 </test>
 <test name="Login Test 59  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -711,7 +711,7 @@
 </test>
 <test name="Login Test 60  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -723,7 +723,7 @@
 </test>
 <test name="Login Test 61  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -735,7 +735,7 @@
 </test>
 <test name="Login Test 62  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -747,7 +747,7 @@
 </test>
 <test name="Login Test 63  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -759,7 +759,7 @@
 </test>
 <test name="Login Test 64  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -771,7 +771,7 @@
 </test>
 <test name="Login Test 65  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -783,7 +783,7 @@
 </test>
 <test name="Login Test 66  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -795,7 +795,7 @@
 </test>
 <test name="Login Test 67  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -807,7 +807,7 @@
 </test>
 <test name="Login Test 68  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -819,7 +819,7 @@
 </test>
 <test name="Login Test 69  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -831,7 +831,7 @@
 </test>
 <test name="Login Test 70  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -843,7 +843,7 @@
 </test>
 <test name="Login Test 71  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -855,7 +855,7 @@
 </test>
 <test name="Login Test 72  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -867,7 +867,7 @@
 </test>
 <test name="Login Test 73  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -879,7 +879,7 @@
 </test>
 <test name="Login Test 74  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -891,7 +891,7 @@
 </test>
 <test name="Login Test 75  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -903,7 +903,7 @@
 </test>
 <test name="Login Test 76  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -915,7 +915,7 @@
 </test>
 <test name="Login Test 77  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -927,7 +927,7 @@
 </test>
 <test name="Login Test 78  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -939,7 +939,7 @@
 </test>
 <test name="Login Test 79  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -951,7 +951,7 @@
 </test>
 <test name="Login Test 80  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -963,7 +963,7 @@
 </test>
 <test name="Login Test 81  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -975,7 +975,7 @@
 </test>
 <test name="Login Test 82  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -987,7 +987,7 @@
 </test>
 <test name="Login Test 83  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -999,7 +999,7 @@
 </test>
 <test name="Login Test 84  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1011,7 +1011,7 @@
 </test>
 <test name="Login Test 85  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1023,7 +1023,7 @@
 </test>
 <test name="Login Test 86  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1035,7 +1035,7 @@
 </test>
 <test name="Login Test 87  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1047,7 +1047,7 @@
 </test>
 <test name="Login Test 88  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1059,7 +1059,7 @@
 </test>
 <test name="Login Test 89  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1071,7 +1071,7 @@
 </test>
 <test name="Login Test 90  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1083,7 +1083,7 @@
 </test>
 <test name="Login Test 91  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1095,7 +1095,7 @@
 </test>
 <test name="Login Test 92  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1107,7 +1107,7 @@
 </test>
 <test name="Login Test 93  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1119,7 +1119,7 @@
 </test>
 <test name="Login Test 94  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1131,7 +1131,7 @@
 </test>
 <test name="Login Test 95  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1143,7 +1143,7 @@
 </test>
 <test name="Login Test 96  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1155,7 +1155,7 @@
 </test>
 <test name="Login Test 97  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1167,7 +1167,7 @@
 </test>
 <test name="Login Test 98  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1179,7 +1179,7 @@
 </test>
 <test name="Login Test 99  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
@@ -1191,7 +1191,7 @@
 </test>
 <test name="Login Test 100  Windows 10 and Chrome" enabled="true">
 <parameter name="browser" value="chrome" />
-<parameter name="version" value="latest" />
+<parameter name="version" value="latest -1" />
 <parameter name="os" value="Windows 10" />
 <classes>
 <class name="com.DemoTest.Tests.WebDemoTest">
