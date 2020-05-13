@@ -296,6 +296,9 @@ public  class TestBase  {
 
     }
 
+public static void setSauceContext(String text) {
+        ((JavascriptExecutor) webDriver.get()).executeScript("sauce:context=" + text);
+    }
 
     @AfterMethod
     public void tearDown(ITestResult result) throws Exception {
