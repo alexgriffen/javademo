@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class WebDemoPage {
+public class WebDemoPage extends TestBase {
 
     @FindBy(linkText = "i am a link")
     private WebElement theActiveLink;
