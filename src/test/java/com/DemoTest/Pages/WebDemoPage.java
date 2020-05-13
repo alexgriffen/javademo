@@ -83,34 +83,42 @@ public class WebDemoPage {
     	{
     	
     	System.out.printf("\nStarting login function now");
+	TestBase.setSauceContext("Starting login function now");	
     	
     	System.out.printf("\nEnter username: " +user);
+	TestBase.setSauceContext("Enter username: " +user);	
     	username.sendKeys(user);
     	
     	System.out.printf("\nEnter Password: " +passwd);
+	TestBase.setSauceContext("Enter Password: ");	
     	password.sendKeys(passwd);
     	
-    	System.out.printf("\nClick Login button");   	
+    	System.out.printf("\nClick Login button"); 
+	TestBase.setSauceContext("Click Login button");	
     	Thread.sleep(delay);
     	LoginButton.click();
     	
-    	System.out.printf("\nClick on Hamburger icon");   
+    	System.out.printf("\nClick on Hamburger icon"); 
+	TestBase.setSauceContext("Click on Hamburger icon");	
     	Thread.sleep(delay);
     	hamburgericon.click();
     	
-    	System.out.printf("\nPerforming validation");   
+    	System.out.printf("\nPerforming validation"); 
+	TestBase.setSauceContext("Performing validation");	
     	Thread.sleep(delay);
     	
     	
     	if(driver.getPageSource().contains("Logout")){
     		
     		System.out.println("\nYay Login Passed");
+		TestBase.setSauceContext("Login Passed");
     		value = true;
     		
     		}
     	
     	else {
     		System.out.println("\nLogin Failed");
+		TestBase.setSauceContext("Login Failed");
     		
     		}
     	
@@ -118,6 +126,7 @@ public class WebDemoPage {
          //  WebDriverWait wait = new WebDriverWait(driver, 15);
         //   wait.until(ExpectedConditions.textToBePresentInElement(username, user));
     	
+	TestBase.setSauceContext("CLick Logout link");	
     	LogoutButton.click();
     	
     	
@@ -128,8 +137,10 @@ public class WebDemoPage {
     	{
     		
     		System.out.printf("\nCan't execute login function: " +ex);
+		TestBase.setSauceContext("Can't execute login function: " +ex);	
     	}
     	
+	System.out.printf("\nLogin Test Finished");    
     	return value;
 
       
