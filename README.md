@@ -1,7 +1,3 @@
-## Java-TestNg-Selenium
-[![Travis Status](https://travis-ci.org/saucelabs-sample-test-frameworks/Java-TestNG-Selenium.svg?branch=master)](https://travis-ci.org/saucelabs-sample-test-frameworks/Java-TestNG-Selenium)
-
-This code is provided on an "AS-IS” basis without warranty of any kind, either express or implied, including without limitation any implied warranties of condition, uninterrupted use, merchantability, fitness for a particular purpose, or non-infringement. Your tests and testing environments may require you to modify this framework. Issues regarding this framework should be submitted through GitHub. For questions regarding Sauce Labs integration, please see the Sauce Labs documentation at https://wiki.saucelabs.com/. This framework is not maintained by Sauce Labs Support.
 
 ### Environment Setup
 
@@ -30,26 +26,8 @@ This code is provided on an "AS-IS” basis without warranty of any kind, either
 ### Running Tests
 
 Tests in Parallel:
-	```
-	$ mvn test
-	```
-
-[Sauce Labs Dashboard](https://saucelabs.com/beta/dashboard)
-
-### Advice/Troubleshooting
-1. It may be useful to use a Java IDE such as IntelliJ or Eclipse to help troubleshoot potential issues. 
-2. There may be additional latency when using a remote webdriver to run tests on Sauce Labs. Timeouts or Waits may need to be increased.
-    * [Selenium tips regarding explicit waits](https://wiki.saucelabs.com/display/DOCS/Best+Practice%3A+Use+Explicit+Waits)
-
-### Resources
-##### [Sauce Labs Documentation](https://wiki.saucelabs.com/)
-
-##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
-
-##### [TestNg Documentation](http://testng.org/javadocs/index.html)
-
-##### [Java Documentation](https://docs.oracle.com/javase/7/docs/api/)
-
-##### Stack Overflow:
-* [Related Stack Overflow Threads](http://stackoverflow.com/questions/27355003/advise-on-hierarchy-for-element-locators-in-selenium-webdriver)
-# responsivewebdemo
+	
+	Example: 
+	$ mvn -X clean test -DsuiteFile=parameterexample100VMS.xml
+	
+	NOTE you can use any file in the repo.
